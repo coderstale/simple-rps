@@ -1,1 +1,1 @@
-# Simple Rock, Papers, Scizors game made for fun!
+# Simple Rock, Papers, Scizors game made using python for fun!
